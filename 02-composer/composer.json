@@ -1,6 +1,6 @@
 {
   "require": {
-	  "laravel/lumen": "^5.1.4",
-    "monolog/monolog": "^1.17"
-	}
+    "monolog/monolog": "^1.17.0",
+    "laravel/lumen": "^5.1"
+  }
 }
